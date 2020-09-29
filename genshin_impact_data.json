@@ -5329,7 +5329,7 @@
         "icon": "https://vignette.wikia.nocookie.net/gensin-impact/images/3/36/Weapon_Favonius_Codex.png/revision/latest?cb=20200619015621",
         "base_stat": "42",
         "secondary_stat_type": "Energy Recharge",
-        "secondary_stat": "10%",
+        "secondary_stat": "10.0%",
         "description": "A secret tome that belonged to the scholars of the Knights of Favonius. It describes the logic and power of elements and matter.",
         "passive_name" : "Critical Charge",
         "passive_effect": [
@@ -8721,6 +8721,7 @@
         ["6.7%","NA","NA","19.9%","22.6%","NA","NA","NA"],
         ["6.8%","12.0%","NA","NA","NA","NA","NA","NA"],
         ["7.2%","12.7%","18.5%","21.4%","24.4%","27.3%","NA","NA"],
+        ["7.5%","NA","NA","NA","NA","NA","NA","NA"],
         ["7.6%","NA","NA","NA","NA","NA","NA","NA"],
         ["7.7%","13.5%","19.7%","22.8%","NA","NA","NA","NA"],
         ["8.0%","14.1%","20.6%","23.8%","27.1%","30.0%","NA","NA"],
